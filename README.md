@@ -31,7 +31,7 @@ python main.py -d "A comedic movie about vampires" -c 3
 
 ## Results
 
-![out](/sample_output.png)
+![out](/sample_out.png)
 
 ---
 
