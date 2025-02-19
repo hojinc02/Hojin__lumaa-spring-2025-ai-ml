@@ -8,6 +8,7 @@ For clarity, the `nltk` module's data is downloaded at `/nltk_data` for word tok
 ## Setup
 
 Python Version: `3.12.8`
+
 To create a virtual environment and install requirements, 
 ```
 python -m venv env
